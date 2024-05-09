@@ -1,7 +1,7 @@
 @echo off
 
 cd "avatars"
-start run_script.bat
+start run_script.exe
 title Launching Modules v.1.1.0
 :top
 cls
